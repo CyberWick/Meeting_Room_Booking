@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="time-table2.xsl"?>
+<week>
+	<day id = "Monday">
+		<title>Monday</title>
+		<duration start-time = "9">
+			<isavailable>0</isavailable>
+			<bookedby>Principal</bookedby>
+		</duration>
+		<duration start-time="10">
+			<start-time>10</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>Principal</bookedby>
+		</duration>
+		<duration start-time="11">
+			<start-time>11</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="12">
+			<start-time>12</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="13">
+			<start-time>13</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="14">
+			<start-time>14</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>HOD(Comp)</bookedby>
+		</duration>
+		<duration start-time="15">
+			<start-time>15</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>HOD(Comp)</bookedby>
+		</duration>
+		<duration start-time="16">
+			<start-time>16</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="17">
+			<start-time>17</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		
+	</day>
+	<day id = "Tuesday">
+		<title>Tuesday</title>
+		<duration start-time="9">
+			<start-time>9</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>Principal</bookedby>
+		</duration>
+		<duration start-time="10">
+			<start-time>10</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>Principal</bookedby>
+		</duration>
+		<duration start-time="11">
+			<start-time>11</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="12">
+			<start-time>12</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="13">
+			<start-time>13</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="14">
+			<start-time>14</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="15">
+			<start-time>15</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="16">
+			<start-time>16</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>ACM-PICT</bookedby>
+		</duration>
+		<duration start-time="17">
+			<start-time>17</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+	
+	</day>
+	
+	<day id = "Wednesday">
+		<title>Wednesday</title>
+		<duration start-time="9">
+			<start-time>9</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="10">
+			<start-time>10</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="11">
+			<start-time>11</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="12">
+			<start-time>12</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>ACM-PICT</bookedby>
+		</duration>
+		<duration start-time="13">
+			<start-time>13</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>ACM-PICT</bookedby>
+		</duration>
+		<duration start-time="14">
+			<start-time>14</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="15">
+			<start-time>15</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="16">
+			<start-time>16</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>Art-Circle</bookedby>
+		</duration>
+		<duration start-time="17">
+			<start-time>17</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>Art-Circle</bookedby>
+		</duration>
+		
+	</day>
+
+	<day id = "Thursday">
+		<title>Thursday</title>
+		<duration start-time="9">
+			<start-time>9</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="10">
+			<start-time>10</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="11">
+			<start-time>11</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="12">
+			<start-time>12</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="13">
+			<start-time>13</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="14">
+			<start-time>14</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="15">
+			<start-time>15</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="16">
+			<start-time>16</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="17">
+			<start-time>17</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		
+	</day>
+	<day id = "Friday">
+		<title>Friday</title>
+		<duration start-time="9">
+			<start-time>9</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>HoD(IT)</bookedby>
+		</duration>
+		<duration start-time="10">
+			<start-time>10</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>HoD(IT)</bookedby>
+		</duration>
+		<duration start-time="11">
+			<start-time>11</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="12">
+			<start-time>12</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="13">
+			<start-time>13</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="14">
+			<start-time>14</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>Quiz club</bookedby>
+		</duration>
+		<duration start-time="15">
+			<start-time>15</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		<duration start-time="16">
+			<start-time>16</start-time>
+			<isavailable>0</isavailable>
+			<bookedby>ACM-PICT</bookedby>
+		</duration>
+		<duration start-time="17">
+			<start-time>17</start-time>
+			<isavailable>1</isavailable>
+			<bookedby>None</bookedby>
+		</duration>
+		
+	</day>
+
+</week>
